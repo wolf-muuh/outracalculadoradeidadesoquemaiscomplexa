@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\bin\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.exe
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\bin\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.deps.json
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\bin\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.runtimeconfig.json
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\bin\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.dll
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\bin\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.pdb
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.dll
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\refint\outracalculadoradeidadesoquemaiscomplexa.dll
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.pdb
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\outracalculadoradeidadesoquemaiscomplexa.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\outracalculadoradeidadesoquemaiscomplexa\obj\Debug\net7.0\ref\outracalculadoradeidadesoquemaiscomplexa.dll
